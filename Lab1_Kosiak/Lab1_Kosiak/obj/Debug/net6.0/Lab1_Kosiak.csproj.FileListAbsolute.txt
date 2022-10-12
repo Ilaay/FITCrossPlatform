@@ -1,0 +1,30 @@
+D:\University\4course\CrossPlatform\Lab1_Kosiak\Lab1_Kosiak\bin\Debug\net6.0\Lab1_Kosiak.exe
+D:\University\4course\CrossPlatform\Lab1_Kosiak\Lab1_Kosiak\bin\Debug\net6.0\Lab1_Kosiak.deps.json
+D:\University\4course\CrossPlatform\Lab1_Kosiak\Lab1_Kosiak\bin\Debug\net6.0\Lab1_Kosiak.runtimeconfig.json
+D:\University\4course\CrossPlatform\Lab1_Kosiak\Lab1_Kosiak\bin\Debug\net6.0\Lab1_Kosiak.dll
+D:\University\4course\CrossPlatform\Lab1_Kosiak\Lab1_Kosiak\bin\Debug\net6.0\Lab1_Kosiak.pdb
+D:\University\4course\CrossPlatform\Lab1_Kosiak\Lab1_Kosiak\obj\Debug\net6.0\Lab1_Kosiak.csproj.AssemblyReference.cache
+D:\University\4course\CrossPlatform\Lab1_Kosiak\Lab1_Kosiak\obj\Debug\net6.0\Lab1_Kosiak.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\4course\CrossPlatform\Lab1_Kosiak\Lab1_Kosiak\obj\Debug\net6.0\Lab1_Kosiak.AssemblyInfoInputs.cache
+D:\University\4course\CrossPlatform\Lab1_Kosiak\Lab1_Kosiak\obj\Debug\net6.0\Lab1_Kosiak.AssemblyInfo.cs
+D:\University\4course\CrossPlatform\Lab1_Kosiak\Lab1_Kosiak\obj\Debug\net6.0\Lab1_Kosiak.csproj.CoreCompileInputs.cache
+D:\University\4course\CrossPlatform\Lab1_Kosiak\Lab1_Kosiak\obj\Debug\net6.0\Lab1_Kosiak.dll
+D:\University\4course\CrossPlatform\Lab1_Kosiak\Lab1_Kosiak\obj\Debug\net6.0\refint\Lab1_Kosiak.dll
+D:\University\4course\CrossPlatform\Lab1_Kosiak\Lab1_Kosiak\obj\Debug\net6.0\Lab1_Kosiak.pdb
+D:\University\4course\CrossPlatform\Lab1_Kosiak\Lab1_Kosiak\obj\Debug\net6.0\Lab1_Kosiak.genruntimeconfig.cache
+D:\University\4course\CrossPlatform\Lab1_Kosiak\Lab1_Kosiak\obj\Debug\net6.0\ref\Lab1_Kosiak.dll
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_Kosiak\Lab1_Kosiak\bin\Debug\net6.0\Lab1_Kosiak.exe
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_Kosiak\Lab1_Kosiak\bin\Debug\net6.0\Lab1_Kosiak.deps.json
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_Kosiak\Lab1_Kosiak\bin\Debug\net6.0\Lab1_Kosiak.runtimeconfig.json
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_Kosiak\Lab1_Kosiak\bin\Debug\net6.0\Lab1_Kosiak.dll
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_Kosiak\Lab1_Kosiak\bin\Debug\net6.0\Lab1_Kosiak.pdb
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_Kosiak\Lab1_Kosiak\obj\Debug\net6.0\Lab1_Kosiak.csproj.AssemblyReference.cache
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_Kosiak\Lab1_Kosiak\obj\Debug\net6.0\Lab1_Kosiak.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_Kosiak\Lab1_Kosiak\obj\Debug\net6.0\Lab1_Kosiak.AssemblyInfoInputs.cache
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_Kosiak\Lab1_Kosiak\obj\Debug\net6.0\Lab1_Kosiak.AssemblyInfo.cs
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_Kosiak\Lab1_Kosiak\obj\Debug\net6.0\Lab1_Kosiak.csproj.CoreCompileInputs.cache
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_Kosiak\Lab1_Kosiak\obj\Debug\net6.0\Lab1_Kosiak.dll
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_Kosiak\Lab1_Kosiak\obj\Debug\net6.0\refint\Lab1_Kosiak.dll
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_Kosiak\Lab1_Kosiak\obj\Debug\net6.0\Lab1_Kosiak.pdb
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_Kosiak\Lab1_Kosiak\obj\Debug\net6.0\Lab1_Kosiak.genruntimeconfig.cache
+C:\Users\plast\OneDrive\Рабочий стол\CrossProg\Lab1_Kosiak\Lab1_Kosiak\obj\Debug\net6.0\ref\Lab1_Kosiak.dll
