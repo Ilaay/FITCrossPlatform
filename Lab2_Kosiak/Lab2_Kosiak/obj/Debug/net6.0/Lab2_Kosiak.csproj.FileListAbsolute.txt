@@ -1,0 +1,15 @@
+D:\University\4course\CrossPlatform\Lab2_Kosiak\Lab2_Kosiak\bin\Debug\net6.0\Lab2_Kosiak.exe
+D:\University\4course\CrossPlatform\Lab2_Kosiak\Lab2_Kosiak\bin\Debug\net6.0\Lab2_Kosiak.deps.json
+D:\University\4course\CrossPlatform\Lab2_Kosiak\Lab2_Kosiak\bin\Debug\net6.0\Lab2_Kosiak.runtimeconfig.json
+D:\University\4course\CrossPlatform\Lab2_Kosiak\Lab2_Kosiak\bin\Debug\net6.0\Lab2_Kosiak.dll
+D:\University\4course\CrossPlatform\Lab2_Kosiak\Lab2_Kosiak\bin\Debug\net6.0\Lab2_Kosiak.pdb
+D:\University\4course\CrossPlatform\Lab2_Kosiak\Lab2_Kosiak\obj\Debug\net6.0\Lab2_Kosiak.csproj.AssemblyReference.cache
+D:\University\4course\CrossPlatform\Lab2_Kosiak\Lab2_Kosiak\obj\Debug\net6.0\Lab2_Kosiak.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\4course\CrossPlatform\Lab2_Kosiak\Lab2_Kosiak\obj\Debug\net6.0\Lab2_Kosiak.AssemblyInfoInputs.cache
+D:\University\4course\CrossPlatform\Lab2_Kosiak\Lab2_Kosiak\obj\Debug\net6.0\Lab2_Kosiak.AssemblyInfo.cs
+D:\University\4course\CrossPlatform\Lab2_Kosiak\Lab2_Kosiak\obj\Debug\net6.0\Lab2_Kosiak.csproj.CoreCompileInputs.cache
+D:\University\4course\CrossPlatform\Lab2_Kosiak\Lab2_Kosiak\obj\Debug\net6.0\Lab2_Kosiak.dll
+D:\University\4course\CrossPlatform\Lab2_Kosiak\Lab2_Kosiak\obj\Debug\net6.0\refint\Lab2_Kosiak.dll
+D:\University\4course\CrossPlatform\Lab2_Kosiak\Lab2_Kosiak\obj\Debug\net6.0\Lab2_Kosiak.pdb
+D:\University\4course\CrossPlatform\Lab2_Kosiak\Lab2_Kosiak\obj\Debug\net6.0\Lab2_Kosiak.genruntimeconfig.cache
+D:\University\4course\CrossPlatform\Lab2_Kosiak\Lab2_Kosiak\obj\Debug\net6.0\ref\Lab2_Kosiak.dll
