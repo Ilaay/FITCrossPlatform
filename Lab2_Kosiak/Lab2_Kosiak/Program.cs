@@ -1,4 +1,4 @@
-﻿namespace Lab2_Kosiak
+namespace Lab2_Kosiak
 {
 	public class Program
 	{
@@ -18,7 +18,15 @@
 				else
 				{
 					var numberList = inputData[1].Trim().Split(' ', StringSplitOptions.RemoveEmptyEntries).Select(n => Convert.ToInt32(n)).ToList();
-					streamWriter.WriteLine(GetMaxLengthOfIncreasingSubsezuence(numberList));
+
+					if (numberList.Any(n => n > 10000 || n < -10000))
+					{
+						streamWriter.WriteLine("Number out of range");
+					}
+					else
+					{
+						streamWriter.WriteLine(GetMaxLengthOfIncreasingSubsezuence(numberList));
+					}
 				}
 			}
 		}
