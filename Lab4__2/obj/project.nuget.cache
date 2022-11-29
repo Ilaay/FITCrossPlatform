@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "otBZ8j1aBpMhxOeIrBtfUuh8QCFCutr48KlKGJHwdTwFW2zS58pRSQ0f/PS1QCxFbTlVTQEbWGa9Fbbq++mK+w==",
+  "success": true,
+  "projectFilePath": "D:\\University\\4course\\CrossPlatform\\Lab4__2\\Lab4__2\\Lab4__2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Illia\\.nuget\\packages\\mcmaster.extensions.commandlineutils\\4.0.2\\mcmaster.extensions.commandlineutils.4.0.2.nupkg.sha512",
+    "C:\\Users\\Illia\\.nuget\\packages\\nuget.commandline\\6.3.1\\nuget.commandline.6.3.1.nupkg.sha512",
+    "C:\\Users\\Illia\\.nuget\\packages\\system.componentmodel.annotations\\5.0.0\\system.componentmodel.annotations.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

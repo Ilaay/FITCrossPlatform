@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>LabsLibrary</id>
+    <version>1.0.0</version>
+    <authors>Dmytro Prokhorchuk</authors>
+    <description>My lab 4 class library</description>
+    <repository type="nuget" />
+    <dependencies>
+      <group targetFramework="net6.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="D:\University\4course\CrossPlatform\Lab4__2\LabsLibrary\bin\Debug\net6.0\LabsLibrary.dll" target="lib\net6.0\LabsLibrary.dll" />
+  </files>
+</package>

@@ -1,0 +1,12 @@
+D:\University\4course\CrossPlatform\Lab4__2\LabsLibrary\bin\Debug\net6.0\LabsLibrary.deps.json
+D:\University\4course\CrossPlatform\Lab4__2\LabsLibrary\bin\Debug\net6.0\LabsLibrary.dll
+D:\University\4course\CrossPlatform\Lab4__2\LabsLibrary\bin\Debug\net6.0\LabsLibrary.pdb
+D:\University\4course\CrossPlatform\Lab4__2\LabsLibrary\obj\Debug\net6.0\LabsLibrary.csproj.AssemblyReference.cache
+D:\University\4course\CrossPlatform\Lab4__2\LabsLibrary\obj\Debug\net6.0\LabsLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\4course\CrossPlatform\Lab4__2\LabsLibrary\obj\Debug\net6.0\LabsLibrary.AssemblyInfoInputs.cache
+D:\University\4course\CrossPlatform\Lab4__2\LabsLibrary\obj\Debug\net6.0\LabsLibrary.AssemblyInfo.cs
+D:\University\4course\CrossPlatform\Lab4__2\LabsLibrary\obj\Debug\net6.0\LabsLibrary.csproj.CoreCompileInputs.cache
+D:\University\4course\CrossPlatform\Lab4__2\LabsLibrary\obj\Debug\net6.0\LabsLibrary.dll
+D:\University\4course\CrossPlatform\Lab4__2\LabsLibrary\obj\Debug\net6.0\refint\LabsLibrary.dll
+D:\University\4course\CrossPlatform\Lab4__2\LabsLibrary\obj\Debug\net6.0\LabsLibrary.pdb
+D:\University\4course\CrossPlatform\Lab4__2\LabsLibrary\obj\Debug\net6.0\ref\LabsLibrary.dll

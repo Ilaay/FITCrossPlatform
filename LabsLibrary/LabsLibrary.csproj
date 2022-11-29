@@ -1,0 +1,14 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+	<PropertyGroup>
+		<TargetFramework>net6.0</TargetFramework>
+		<ImplicitUsings>enable</ImplicitUsings>
+		<Nullable>enable</Nullable>
+		<PackageId>LabsLibrary</PackageId>
+		<Authors>IlliaKosiak</Authors>
+		<Description>My lab 4 class library</Description>
+		<PackageProjectUrl></PackageProjectUrl>
+		<RepositoryType>nuget</RepositoryType>
+	</PropertyGroup>
+
+</Project>
