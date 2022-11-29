@@ -1,0 +1,15 @@
+D:\University\4course\CrossPlatform\lab3_10\lab3_10\bin\Debug\net6.0\lab3_10.exe
+D:\University\4course\CrossPlatform\lab3_10\lab3_10\bin\Debug\net6.0\lab3_10.deps.json
+D:\University\4course\CrossPlatform\lab3_10\lab3_10\bin\Debug\net6.0\lab3_10.runtimeconfig.json
+D:\University\4course\CrossPlatform\lab3_10\lab3_10\bin\Debug\net6.0\lab3_10.dll
+D:\University\4course\CrossPlatform\lab3_10\lab3_10\bin\Debug\net6.0\lab3_10.pdb
+D:\University\4course\CrossPlatform\lab3_10\lab3_10\obj\Debug\net6.0\lab3_10.csproj.AssemblyReference.cache
+D:\University\4course\CrossPlatform\lab3_10\lab3_10\obj\Debug\net6.0\lab3_10.GeneratedMSBuildEditorConfig.editorconfig
+D:\University\4course\CrossPlatform\lab3_10\lab3_10\obj\Debug\net6.0\lab3_10.AssemblyInfoInputs.cache
+D:\University\4course\CrossPlatform\lab3_10\lab3_10\obj\Debug\net6.0\lab3_10.AssemblyInfo.cs
+D:\University\4course\CrossPlatform\lab3_10\lab3_10\obj\Debug\net6.0\lab3_10.csproj.CoreCompileInputs.cache
+D:\University\4course\CrossPlatform\lab3_10\lab3_10\obj\Debug\net6.0\lab3_10.dll
+D:\University\4course\CrossPlatform\lab3_10\lab3_10\obj\Debug\net6.0\refint\lab3_10.dll
+D:\University\4course\CrossPlatform\lab3_10\lab3_10\obj\Debug\net6.0\lab3_10.pdb
+D:\University\4course\CrossPlatform\lab3_10\lab3_10\obj\Debug\net6.0\lab3_10.genruntimeconfig.cache
+D:\University\4course\CrossPlatform\lab3_10\lab3_10\obj\Debug\net6.0\ref\lab3_10.dll
